@@ -35,6 +35,3 @@ Mac has the default branch - main
 Windows has the default branch - master
 
 
-
-
-asfklmsdgjknsgkjsdngldsnl
