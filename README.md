@@ -1,7 +1,7 @@
 # html_study
 Personal study of HTML
 ### basic git info
-- “git pull origin master” Bring the newest file to you to use MUST DO FIRST
+- “git pull origin main” Bring the newest file to you to use MUST DO FIRST
 
 “git init”     .git
 
@@ -15,9 +15,10 @@ Personal study of HTML
 
 “git commit -m “(title)”” 
 
-“git push origin master” Add new updates to the original file on GitHub.com
+“git push origin main” Add new updates to the original file on GitHub.com
 
 “git config —global user.name (git id) ”
 “git config —global user.email (git email)”
 *If parentheses is ommitted, the current id that is logged in will show. Same with email.
 
+ 맥과 윈도우는 다르다는 것을 방금 깨달음!
