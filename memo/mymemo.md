@@ -1,7 +1,7 @@
 
-# html_study
-Personal study of HTML
 ### basic git info
+Make sure to save the file before saving it thru git.
+
 -Macbook Version 
 “git pull origin (branch name)” - Bring the most updated file from github that you can work on. MUST DO FIRST
 
@@ -41,3 +41,7 @@ Windows has the default branch - master`
 2. git add .
 3. git commit -m "(title)"
 4. git push origin (branch name)
+
+git ignore is used to not show the updates on github
+in other words a new commit wont show on github
+just have to write the name of the document or folder in the gitignore tab
