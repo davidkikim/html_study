@@ -15,7 +15,8 @@ Make sure to save the file before saving it thru git.
 
 “git status” - Checks for any new updates to the git file
 
-“git add . “ - File add and saves the file
+“git add . “ - Add and saves every file
+        . -> (file name) - Adds and saves only (file name)
 
 “git commit -m “(title)”” 
 
@@ -42,6 +43,14 @@ Windows has the default branch - master`
 3. git commit -m "(title)"
 4. git push origin (branch name)
 
-git ignore is used to not show the updates on github
-in other words a new commit wont show on github
-just have to write the name of the document or folder in the gitignore tab
+*git ignore is used to not show the updates on github
+*in other words a new commit wont show on github
+*just have to write the name of the document or folder in the gitignore tab
+
+-git commit and push one file  
+"git commit -m "" (filename)"  
+"git push origin main"
+
+
+
+Line break in Markdown files are (space, space, enter)
