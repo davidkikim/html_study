@@ -3,5 +3,5 @@
 Web Design Schedule
 1. HTML
 
-Learn html basics including coding 
+Learn html basics  
 Make basic html structure for web 
