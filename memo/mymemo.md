@@ -7,9 +7,9 @@ Personal study of HTML
 
 "clear" - Get rid of everything in the terminal and prepares a blank space
 
-“git init”     .git
+“git init” - Used to create a new git repository (First commmand you'll run in a new project)
 
-“git remote add origin (address)” 
+“git remote add origin (address)” - To add a new remote
 
 “git remote -v”  - Tells where the git is connected to 
 
